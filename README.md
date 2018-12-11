@@ -1,8 +1,8 @@
 ## An unoffical infographic project for 
-# Chinese Marathon Relay 2017
-## in Saiko Toda, Saitama, Japan
+# Friendship League of Tokyo Chinese Running Clubs 
+##
 
-Please view on: https://fengdh.github.io/CMR2017/
+Please view on: https://fengdh.github.io/FL-TCRC/
 
 
 --------
@@ -20,4 +20,4 @@ Please view on: https://fengdh.github.io/CMR2017/
 
 FENG D.H.
 
-2017/12/01
+2018/12/12
