@@ -1,1 +1,12 @@
+#infographics-container h1{
+  color: #F0A;
+  border-bottom: 3px solid #F0A;
+}
 
+.desc {
+  color: #F0A;
+}
+#infographics-container h2{
+  color: #C0A;
+  border-left: 15px solid #C0A;
+}
