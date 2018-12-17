@@ -168,7 +168,7 @@ function receiveData(records) {
     bar.append('text')
             .attr('class', 'name')
             .attr('x', d => 36)
-            .attr('y', 0)
+            .attr('y', 4)
             .text(d => 'T' + d.no + '.' + d.name);
 
     bar.append('text')
