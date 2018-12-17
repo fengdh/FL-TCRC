@@ -152,7 +152,7 @@ function receiveData(records) {
                         .data(arr, key)
                         .enter()
                         .append('g')
-                           .attr('transform', (d,i) => 'translate(0, ' + (i * 32 + 20) + ')');
+                           .attr('transform', (d,i) => 'translate(0, ' + (i * 28 + 20) + ')');
 
       bar.selectAll('rect')
            .data(d => d.members)
@@ -160,7 +160,7 @@ function receiveData(records) {
            .append('rect')
            .classed('member', true)
            .attr('x', (d, i) => 5 + i * 5)
-           .attr('y', 8)
+           .attr('y', 4)
            .attr('height', 7)
            .attr('width',  4)
            .attr('fill', d => GENDER_COLOR[d.gender || '']);
@@ -168,7 +168,7 @@ function receiveData(records) {
     bar.append('text')
             .attr('class', 'name')
             .attr('x', d => 36)
-            .attr('y', 4)
+            .attr('y', 0)
             .text(d => 'T' + d.no + '.' + d.name);
 
     bar.append('text')
@@ -179,7 +179,7 @@ function receiveData(records) {
     var rank = bar.insert('g', ':first-child')
             .attr('class', 'rank')
             .classed('marked', d => +d.no === markedNo)
-            .attr('transform', 'translate(0, -11)')
+            .attr('transform', 'translate(0, -15)')
             .on('click', pinMe);
     
     rank.append('rect')
@@ -321,7 +321,7 @@ function run(arr, bar, upto, scale) {
     bar.transition()
          .delay(max)
          .duration(400)
-         .attr('transform', (d,i) => 'translate(0, ' + (i * 32 + 20) + ')')
+         .attr('transform', (d,i) => 'translate(0, ' + (i * 28 + 20) + ')')
          .on('end', showMarked);
     
     svgTeams.selectAll('.rank').on('click', pinMe);
@@ -329,7 +329,7 @@ function run(arr, bar, upto, scale) {
     bar.append('rect')
          .classed('f', d => d.members[upto].gender === 'F')
          .attr('x', d => 36 + upto * 2 + (d._total[upto - 1 ] || 0) * scale)
-         .attr('y', d => !!d.members[upto].moveup ? 2 : 8)
+         .attr('y', d => !!d.members[upto].moveup ? 1 : 4)
          .attr('height', 7)
          .attr('width',  0)
          .attr('fill', d => GRADE_COLOR[d._grade[upto]])// step_color(upto))
