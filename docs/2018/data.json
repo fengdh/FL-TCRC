@@ -32,15 +32,15 @@
         "duration": "00:46:39",
         "pace": "05:18",
         "adjusted-pace": "05:18",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:39:25",
         "pace": "04:28",
         "adjusted-pace": "04:28",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -76,15 +76,15 @@
         "duration": "00:41:43",
         "pace": "04:44",
         "adjusted-pace": "04:44",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:39:02",
         "pace": "04:26",
         "adjusted-pace": "04:26",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -120,15 +120,15 @@
         "duration": "00:52:39",
         "pace": "05:58",
         "adjusted-pace": "05:58",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:52:27",
         "pace": "05:57",
         "adjusted-pace": "05:57",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -164,15 +164,15 @@
         "duration": "00:42:48",
         "pace": "04:51",
         "adjusted-pace": "04:51",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:49:54",
         "pace": "05:40",
         "adjusted-pace": "05:40",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -208,15 +208,15 @@
         "duration": "00:35:54",
         "pace": "04:04",
         "adjusted-pace": "04:04",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:35:22",
         "pace": "04:01",
         "adjusted-pace": "04:01",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -253,15 +253,15 @@
         "duration": "00:39:19",
         "pace": "04:28",
         "adjusted-pace": "04:28",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:44:25",
         "pace": "05:02",
         "adjusted-pace": "05:02",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -297,15 +297,15 @@
         "duration": "01:12:00",
         "pace": "08:10",
         "adjusted-pace": "08:10",
-        "gender": "M",
-        "moveup": "00:13:08"
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:52:26",
         "pace": "05:57",
         "adjusted-pace": "05:57",
-        "gender": "M"
+        "gender": "M",
+        "moveup": "00:13:08"
       }
     ]
   },
@@ -341,15 +341,15 @@
         "duration": "00:33:20",
         "pace": "03:47",
         "adjusted-pace": "03:47",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:32:17",
         "pace": "03:40",
         "adjusted-pace": "03:40",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -385,15 +385,15 @@
         "duration": "00:43:58",
         "pace": "04:59",
         "adjusted-pace": "04:59",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:42:01",
         "pace": "04:46",
         "adjusted-pace": "04:46",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -429,15 +429,15 @@
         "duration": "00:38:53",
         "pace": "04:25",
         "adjusted-pace": "04:25",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:37:38",
         "pace": "04:16",
         "adjusted-pace": "04:16",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -473,15 +473,15 @@
         "duration": "00:50:33",
         "pace": "05:44",
         "adjusted-pace": "05:44",
-        "gender": "F",
-        "moveup": "00:08:13"
+        "gender": "F"
       },
       {
         "no": 5,
         "duration": "00:26:21",
         "pace": "02:59",
         "adjusted-pace": "02:59",
-        "gender": "F"
+        "gender": "F",
+        "moveup": "00:08:13"
       }
     ]
   },
@@ -517,15 +517,15 @@
         "duration": "00:48:07",
         "pace": "05:28",
         "adjusted-pace": "05:28",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:44:31",
         "pace": "05:03",
         "adjusted-pace": "05:03",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -561,15 +561,15 @@
         "duration": "00:53:00",
         "pace": "06:01",
         "adjusted-pace": "06:01",
-        "gender": "F",
-        "moveup": ""
+        "gender": "F"
       },
       {
         "no": 5,
         "duration": "00:23:16",
         "pace": "02:38",
         "adjusted-pace": "02:38",
-        "gender": "F"
+        "gender": "F",
+        "moveup": ""
       }
     ]
   },
@@ -605,15 +605,15 @@
         "duration": "00:36:19",
         "pace": "04:07",
         "adjusted-pace": "04:07",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:33:36",
         "pace": "03:49",
         "adjusted-pace": "03:49",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -649,15 +649,15 @@
         "duration": "00:37:25",
         "pace": "04:15",
         "adjusted-pace": "04:15",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:38:06",
         "pace": "04:19",
         "adjusted-pace": "04:19",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -693,15 +693,15 @@
         "duration": "00:45:29",
         "pace": "05:10",
         "adjusted-pace": "05:10",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:38:42",
         "pace": "04:23",
         "adjusted-pace": "04:23",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -737,15 +737,15 @@
         "duration": "00:41:06",
         "pace": "04:40",
         "adjusted-pace": "04:40",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:39:24",
         "pace": "04:28",
         "adjusted-pace": "04:28",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -781,15 +781,15 @@
         "duration": "00:38:31",
         "pace": "04:22",
         "adjusted-pace": "04:22",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:40:21",
         "pace": "04:35",
         "adjusted-pace": "04:35",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -825,15 +825,15 @@
         "duration": "00:43:48",
         "pace": "04:58",
         "adjusted-pace": "04:58",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:37:42",
         "pace": "04:17",
         "adjusted-pace": "04:17",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   },
@@ -869,15 +869,15 @@
         "duration": "00:43:55",
         "pace": "04:59",
         "adjusted-pace": "04:59",
-        "gender": "F",
-        "moveup": ""
+        "gender": "F"
       },
       {
         "no": 5,
         "duration": "00:22:11",
         "pace": "02:31",
         "adjusted-pace": "02:31",
-        "gender": "F"
+        "gender": "F",
+        "moveup": ""
       }
     ]
   },
@@ -913,15 +913,15 @@
         "duration": "00:46:43",
         "pace": "05:18",
         "adjusted-pace": "05:18",
-        "gender": "M",
-        "moveup": ""
+        "gender": "M"
       },
       {
         "no": 5,
         "duration": "00:41:02",
         "pace": "04:39",
         "adjusted-pace": "04:39",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       }
     ]
   }
