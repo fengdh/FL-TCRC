@@ -4,7 +4,6 @@
     "order": 15,
     "name": "华侨大学日本校友队",
     "result": "03:20:15",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -33,7 +32,8 @@
         "duration": "00:46:39",
         "pace": "05:18",
         "adjusted-pace": "05:18",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -49,7 +49,6 @@
     "order": 6,
     "name": "东京热乾面党",
     "result": "03:02:22",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -77,7 +76,8 @@
         "duration": "00:41:43",
         "pace": "04:44",
         "adjusted-pace": "04:44",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -93,7 +93,6 @@
     "order": 20,
     "name": "武汉大学校友队",
     "result": "03:53:54",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -121,7 +120,8 @@
         "duration": "00:52:39",
         "pace": "05:58",
         "adjusted-pace": "05:58",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -137,7 +137,6 @@
     "order": 19,
     "name": "InfoSea",
     "result": "03:28:36",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -165,7 +164,8 @@
         "duration": "00:42:48",
         "pace": "04:51",
         "adjusted-pace": "04:51",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -181,7 +181,6 @@
     "order": 3,
     "name": "菜鸟飞奔1队",
     "result": "02:46:09",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -209,7 +208,8 @@
         "duration": "00:35:54",
         "pace": "04:04",
         "adjusted-pace": "04:04",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -225,7 +225,6 @@
     "order": 7,
     "name": "池袋跑友",
     "result": "03:02:42",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -254,7 +253,8 @@
         "duration": "00:39:19",
         "pace": "04:28",
         "adjusted-pace": "04:28",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -270,7 +270,6 @@
     "order": 21,
     "name": "牛肉粉党",
     "result": "04:07:02",
-    "moveup": "00:13:08",
     "members": [
       {
         "no": 1,
@@ -298,7 +297,8 @@
         "duration": "01:12:00",
         "pace": "08:10",
         "adjusted-pace": "08:10",
-        "gender": "M"
+        "gender": "M",
+        "moveup": "00:13:08"
       },
       {
         "no": 5,
@@ -314,7 +314,6 @@
     "order": 1,
     "name": "群英",
     "result": "02:39:45",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -342,7 +341,8 @@
         "duration": "00:33:20",
         "pace": "03:47",
         "adjusted-pace": "03:47",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -358,7 +358,6 @@
     "order": 11,
     "name": "横滨飞雪俱乐部",
     "result": "03:12:37",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -386,7 +385,8 @@
         "duration": "00:43:58",
         "pace": "04:59",
         "adjusted-pace": "04:59",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -402,7 +402,6 @@
     "order": 5,
     "name": "横滨山友队",
     "result": "03:00:59",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -430,7 +429,8 @@
         "duration": "00:38:53",
         "pace": "04:25",
         "adjusted-pace": "04:25",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -446,7 +446,6 @@
     "order": 18,
     "name": "豆皮妹妹队",
     "result": "03:36:29",
-    "moveup": "00:08:13",
     "members": [
       {
         "no": 1,
@@ -474,7 +473,8 @@
         "duration": "00:50:33",
         "pace": "05:44",
         "adjusted-pace": "05:44",
-        "gender": "F"
+        "gender": "F",
+        "moveup": "00:08:13"
       },
       {
         "no": 5,
@@ -490,7 +490,6 @@
     "order": 17,
     "name": "日本气排球协会代表队",
     "result": "03:27:38",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -518,7 +517,8 @@
         "duration": "00:48:07",
         "pace": "05:28",
         "adjusted-pace": "05:28",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -534,7 +534,6 @@
     "order": 9,
     "name": "板桥跑友",
     "result": "03:11:01",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -562,7 +561,8 @@
         "duration": "00:53:00",
         "pace": "06:01",
         "adjusted-pace": "06:01",
-        "gender": "F"
+        "gender": "F",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -578,7 +578,6 @@
     "order": 2,
     "name": "南千住正能量俱乐部",
     "result": "02:42:36",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -606,7 +605,8 @@
         "duration": "00:36:19",
         "pace": "04:07",
         "adjusted-pace": "04:07",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -622,7 +622,6 @@
     "order": 4,
     "name": "南千住正能量俱乐部2队",
     "result": "02:53:45",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -650,7 +649,8 @@
         "duration": "00:37:25",
         "pace": "04:15",
         "adjusted-pace": "04:15",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -666,7 +666,6 @@
     "order": 12,
     "name": "南千住正能量俱乐部3队",
     "result": "03:12:37",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -694,7 +693,8 @@
         "duration": "00:45:29",
         "pace": "05:10",
         "adjusted-pace": "05:10",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -710,7 +710,6 @@
     "order": 10,
     "name": "南千住正能量俱乐部4队",
     "result": "03:12:04",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -738,7 +737,8 @@
         "duration": "00:41:06",
         "pace": "04:40",
         "adjusted-pace": "04:40",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -754,7 +754,6 @@
     "order": 16,
     "name": "南千住正能量俱乐部5队",
     "result": "03:21:52",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -782,7 +781,8 @@
         "duration": "00:38:31",
         "pace": "04:22",
         "adjusted-pace": "04:22",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -798,7 +798,6 @@
     "order": 14,
     "name": "菜鸟无影队",
     "result": "03:15:39",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -826,7 +825,8 @@
         "duration": "00:43:48",
         "pace": "04:58",
         "adjusted-pace": "04:58",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -842,7 +842,6 @@
     "order": 8,
     "name": "表姐联盟",
     "result": "03:07:32",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -870,7 +869,8 @@
         "duration": "00:43:55",
         "pace": "04:59",
         "adjusted-pace": "04:59",
-        "gender": "F"
+        "gender": "F",
+        "moveup": ""
       },
       {
         "no": 5,
@@ -886,7 +886,6 @@
     "order": 13,
     "name": "ChapterOne",
     "result": "03:13:53",
-    "moveup": "",
     "members": [
       {
         "no": 1,
@@ -914,7 +913,8 @@
         "duration": "00:46:43",
         "pace": "05:18",
         "adjusted-pace": "05:18",
-        "gender": "M"
+        "gender": "M",
+        "moveup": ""
       },
       {
         "no": 5,
