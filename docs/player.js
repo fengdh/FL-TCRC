@@ -328,7 +328,7 @@ function run(arr, bar, upto, scale) {
   
     bar.append('rect')
          .classed('f', d => d.members[upto].gender === 'F')
-         .attr('x', d => 36 + upto * 2 + (d._total[upto - 1 ] - to_seconds(d.members[upto].moveup) || 0) * scale)
+         .attr('x', d => 36 + upto * 2 + (d._total[upto - 1 ] - to_seconds(d.members[upto].moveup || '') || 0) * scale)
          .attr('y', d => !!d.members[upto].moveup ? 1 : 4)
          .attr('height', 7)
          .attr('width',  0)
