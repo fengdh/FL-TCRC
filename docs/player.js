@@ -321,7 +321,7 @@ function run(arr, bar, upto, scale) {
     bar.transition()
          .delay(max)
          .duration(400)
-         .attr('transform', (d,i) => 'translate(0, ' + (i * 28 + 20) + ')')
+         .attr('transform', (d,i) => 'translate(0, ' + (i * 32 + 20) + ')')
          .on('end', showMarked);
     
     svgTeams.selectAll('.rank').on('click', pinMe);
