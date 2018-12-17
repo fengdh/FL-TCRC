@@ -329,7 +329,7 @@ function run(arr, bar, upto, scale) {
     bar.append('rect')
          .classed('f', d => d.members[upto].gender === 'F')
          .attr('x', d => 36 + upto * 2 + (d._total[upto - 1 ] || 0) * scale)
-         .attr('y', 4)
+         .attr('y', d => !!d.members[upto] ? 8 : 4)
          .attr('height', 7)
          .attr('width',  0)
          .attr('fill', d => GRADE_COLOR[d._grade[upto]])// step_color(upto))
