@@ -152,7 +152,7 @@ function receiveData(records) {
                         .data(arr, key)
                         .enter()
                         .append('g')
-                           .attr('transform', (d,i) => 'translate(0, ' + (i * 28 + 20) + ')');
+                           .attr('transform', (d,i) => 'translate(0, ' + (i * 32 + 20) + ')');
 
       bar.selectAll('rect')
            .data(d => d.members)
