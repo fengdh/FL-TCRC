@@ -160,7 +160,7 @@ function receiveData(records) {
            .append('rect')
            .classed('member', true)
            .attr('x', (d, i) => 5 + i * 5)
-           .attr('y', 4)
+           .attr('y', 8)
            .attr('height', 7)
            .attr('width',  4)
            .attr('fill', d => GENDER_COLOR[d.gender || '']);
@@ -179,7 +179,7 @@ function receiveData(records) {
     var rank = bar.insert('g', ':first-child')
             .attr('class', 'rank')
             .classed('marked', d => +d.no === markedNo)
-            .attr('transform', 'translate(0, -15)')
+            .attr('transform', 'translate(0, -11)')
             .on('click', pinMe);
     
     rank.append('rect')
