@@ -18,6 +18,7 @@ var GRADE = {
                 ['5:57', '6:22'],  // aluminium
                 ['5:23', 'MAX'],  // out of grade
                ],
+          K: ['0:00','9:00']      // all kids are treasure like diamond
         };
 // color assigned for each grade
 var GRADE_COLOR = [
@@ -130,6 +131,7 @@ var GENDER_COLOR = {
   '':  '#444',
   'F': '#F00',
   'M': '#44F',
+  'K': '#FFF'
 }
 
 // callback after receive data
