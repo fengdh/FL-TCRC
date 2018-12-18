@@ -924,5 +924,49 @@
         "moveup": ""
       }
     ]
-  }
+  },
+{
+  "no": "-KIDS",
+  "order": -9,
+  "name": "Team Dragon",
+  "result": "03:26:00",
+  "kids": 1,
+  "members": [
+    {
+      "no": 1,
+      "duration": "00:20:00",
+      "pace": "04:33",
+      "adjusted-pace": "04:46",
+      "gender": "K"
+    },
+    {
+      "no": 2,
+      "duration": "00:45:00",
+      "pace": "05:07",
+      "adjusted-pace": "05:07",
+      "gender": "K"
+    },
+    {
+      "no": 3,
+      "duration": "00:45:00",
+      "pace": "05:07",
+      "adjusted-pace": "05:07",
+      "gender": "K"
+    },
+    {
+      "no": 4,
+      "duration": "00:50:00",
+      "pace": "05:41",
+      "adjusted-pace": "05:41",
+      "gender": "K"
+    },
+    {
+      "no": 5,
+      "duration": "00:46:00",
+      "pace": "05:14",
+      "adjusted-pace": "05:14",
+      "gender": "K"
+    }
+  ]
+}  
 ]
