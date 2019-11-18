@@ -14,3 +14,11 @@
 #svg-teams .member:nth-child(n+7){
   display: none;
 }
+
+#infographics-container {
+  width: 100%;
+  background-color: #d0c0c0;
+}
+#svg-teams text.name {
+    fill: #444;
+}
