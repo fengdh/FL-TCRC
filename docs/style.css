@@ -9,6 +9,10 @@ html, body {
   color: #FFF;
 }
 
+.li {
+  color: initial;
+}
+
 .go-github {
   height: 32px;
   width: 32px;
