@@ -32,7 +32,7 @@ var GRADE_COLOR = [
           ];
 
 // maximum time when all team finishing 
-var MAX = to_seconds('4:30:00'); 
+var MAX = to_seconds('5:00:00'); 
 // wait for miliseconds before next member
 var WAIT = 500;
 
