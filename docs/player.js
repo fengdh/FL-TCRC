@@ -329,7 +329,7 @@ function run(arr, bar, upto, scale) {
     svgTeams.selectAll('.rank').on('click', pinMe);
   
     var rect = bar.append('rect');
-    rect.append('title').text(d => d.duration);
+    rect.append('title').text(d => d.members[upto].duration);
     rect.classed('f', d => d.members[upto].gender === 'F')
          .attr('x', d => 36 + upto * 2 + (d._total[upto - 1 ] || 0) * scale)
          .attr('y', d => 4)
