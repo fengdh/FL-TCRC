@@ -1,0 +1,972 @@
+[
+  {
+    "no": "01",
+    "order": 15,
+    "name": "华侨大学日本校友队",
+    "result": "03:20:15",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:27:34",
+        "pace": "06:15",
+        "adjusted-pace": "06:34",
+        "gender": "M",
+        "delay": "05:00"
+      },
+      {
+        "no": 2,
+        "duration": "00:43:58",
+        "pace": "04:59",
+        "adjusted-pace": "04:59",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:42:39",
+        "pace": "04:50",
+        "adjusted-pace": "04:50",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:46:39",
+        "pace": "05:18",
+        "adjusted-pace": "05:18",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:39:25",
+        "pace": "04:28",
+        "adjusted-pace": "04:28",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "02",
+    "order": 6,
+    "name": "东京热乾面党",
+    "result": "03:02:22",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:22:40",
+        "pace": "05:09",
+        "adjusted-pace": "05:24",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:39:47",
+        "pace": "04:31",
+        "adjusted-pace": "04:31",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:39:10",
+        "pace": "04:27",
+        "adjusted-pace": "04:27",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:41:43",
+        "pace": "04:44",
+        "adjusted-pace": "04:44",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:39:02",
+        "pace": "04:26",
+        "adjusted-pace": "04:26",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "03",
+    "order": 20,
+    "name": "武汉大学校友队",
+    "result": "03:53:54",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:24:59",
+        "pace": "05:40",
+        "adjusted-pace": "05:57",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:51:14",
+        "pace": "05:49",
+        "adjusted-pace": "05:49",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:52:35",
+        "pace": "05:58",
+        "adjusted-pace": "05:58",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:52:39",
+        "pace": "05:58",
+        "adjusted-pace": "05:58",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:52:27",
+        "pace": "05:57",
+        "adjusted-pace": "05:57",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "04",
+    "order": 19,
+    "name": "InfoSea",
+    "result": "03:28:36",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:24:55",
+        "pace": "05:39",
+        "adjusted-pace": "05:56",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:46:29",
+        "pace": "05:16",
+        "adjusted-pace": "05:16",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:44:30",
+        "pace": "05:03",
+        "adjusted-pace": "05:03",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:42:48",
+        "pace": "04:51",
+        "adjusted-pace": "04:51",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:49:54",
+        "pace": "05:40",
+        "adjusted-pace": "05:40",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "05",
+    "order": 3,
+    "name": "菜鸟飞奔1队",
+    "result": "02:46:09",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:20:11",
+        "pace": "04:35",
+        "adjusted-pace": "04:48",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:36:14",
+        "pace": "04:07",
+        "adjusted-pace": "04:07",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:38:28",
+        "pace": "04:22",
+        "adjusted-pace": "04:22",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:35:54",
+        "pace": "04:04",
+        "adjusted-pace": "04:04",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:35:22",
+        "pace": "04:01",
+        "adjusted-pace": "04:01",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "06",
+    "order": 7,
+    "name": "池袋跑友",
+    "result": "03:02:42",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:23:01",
+        "pace": "05:13",
+        "adjusted-pace": "05:29",
+        "gender": "M",
+        "delay": "05:00"
+      },
+      {
+        "no": 2,
+        "duration": "00:38:34",
+        "pace": "04:22",
+        "adjusted-pace": "04:22",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:37:23",
+        "pace": "04:14",
+        "adjusted-pace": "04:14",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:39:19",
+        "pace": "04:28",
+        "adjusted-pace": "04:28",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:44:25",
+        "pace": "05:02",
+        "adjusted-pace": "05:02",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "07",
+    "order": 21,
+    "name": "牛肉粉党",
+    "result": "04:07:02",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:24:48",
+        "pace": "05:38",
+        "adjusted-pace": "05:55",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:39:13",
+        "pace": "04:27",
+        "adjusted-pace": "04:27",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:58:35",
+        "pace": "06:39",
+        "adjusted-pace": "06:39",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "01:12:00",
+        "pace": "08:10",
+        "adjusted-pace": "08:10",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:52:26",
+        "pace": "05:57",
+        "adjusted-pace": "05:57",
+        "gender": "M",
+        "moveup": "00:13:08"
+      }
+    ]
+  },
+  {
+    "no": "08",
+    "order": 1,
+    "name": "群英",
+    "result": "02:39:45",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:19:07",
+        "pace": "04:20",
+        "adjusted-pace": "04:33",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:39:19",
+        "pace": "04:28",
+        "adjusted-pace": "04:28",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:35:42",
+        "pace": "04:03",
+        "adjusted-pace": "04:03",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:33:20",
+        "pace": "03:47",
+        "adjusted-pace": "03:47",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:32:17",
+        "pace": "03:40",
+        "adjusted-pace": "03:40",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "09",
+    "order": 11,
+    "name": "横滨飞雪俱乐部",
+    "result": "03:12:37",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:23:49",
+        "pace": "05:24",
+        "adjusted-pace": "05:41",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:40:33",
+        "pace": "04:36",
+        "adjusted-pace": "04:36",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:42:16",
+        "pace": "04:48",
+        "adjusted-pace": "04:48",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:43:58",
+        "pace": "04:59",
+        "adjusted-pace": "04:59",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:42:01",
+        "pace": "04:46",
+        "adjusted-pace": "04:46",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "10",
+    "order": 5,
+    "name": "横滨山友队",
+    "result": "03:00:59",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:25:15",
+        "pace": "05:44",
+        "adjusted-pace": "06:01",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:39:51",
+        "pace": "04:31",
+        "adjusted-pace": "04:31",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:39:22",
+        "pace": "04:28",
+        "adjusted-pace": "04:28",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:38:53",
+        "pace": "04:25",
+        "adjusted-pace": "04:25",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:37:38",
+        "pace": "04:16",
+        "adjusted-pace": "04:16",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "11",
+    "order": 18,
+    "name": "豆皮妹妹队",
+    "result": "03:36:29",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:25:06",
+        "pace": "05:42",
+        "adjusted-pace": "05:59",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:52:38",
+        "pace": "05:58",
+        "adjusted-pace": "05:58",
+        "gender": "F"
+      },
+      {
+        "no": 3,
+        "duration": "01:01:51",
+        "pace": "07:01",
+        "adjusted-pace": "07:01",
+        "gender": "F"
+      },
+      {
+        "no": 4,
+        "duration": "00:50:33",
+        "pace": "05:44",
+        "adjusted-pace": "05:44",
+        "gender": "F"
+      },
+      {
+        "no": 5,
+        "duration": "00:26:21",
+        "pace": "05:58",
+        "adjusted-pace": "05:58",
+        "gender": "F",
+        "moveup": "00:08:13"
+      }
+    ]
+  },
+  {
+    "no": "12",
+    "order": 17,
+    "name": "日本气排球协会代表队",
+    "result": "03:27:38",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:27:09",
+        "pace": "06:10",
+        "adjusted-pace": "06:28",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:45:08",
+        "pace": "05:07",
+        "adjusted-pace": "05:07",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:42:43",
+        "pace": "04:51",
+        "adjusted-pace": "04:51",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:48:07",
+        "pace": "05:28",
+        "adjusted-pace": "05:28",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:44:31",
+        "pace": "05:03",
+        "adjusted-pace": "05:03",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "13",
+    "order": 9,
+    "name": "板桥跑友",
+    "result": "03:11:01",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:22:21",
+        "pace": "05:04",
+        "adjusted-pace": "05:20",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:46:29",
+        "pace": "05:16",
+        "adjusted-pace": "05:16",
+        "gender": "F"
+      },
+      {
+        "no": 3,
+        "duration": "00:45:55",
+        "pace": "05:13",
+        "adjusted-pace": "05:13",
+        "gender": "F"
+      },
+      {
+        "no": 4,
+        "duration": "00:53:00",
+        "pace": "06:01",
+        "adjusted-pace": "06:01",
+        "gender": "F"
+      },
+      {
+        "no": 5,
+        "duration": "00:23:16",
+        "pace": "05:16",
+        "adjusted-pace": "05:16",
+        "gender": "F",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "14",
+    "order": 2,
+    "name": "南千住正能量俱乐部",
+    "result": "02:42:36",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:19:33",
+        "pace": "04:26",
+        "adjusted-pace": "04:39",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:36:35",
+        "pace": "04:09",
+        "adjusted-pace": "04:09",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:36:33",
+        "pace": "04:09",
+        "adjusted-pace": "04:09",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:36:19",
+        "pace": "04:07",
+        "adjusted-pace": "04:07",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:33:36",
+        "pace": "03:49",
+        "adjusted-pace": "03:49",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "15",
+    "order": 4,
+    "name": "南千住正能量俱乐部2队",
+    "result": "02:53:45",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:22:04",
+        "pace": "05:00",
+        "adjusted-pace": "05:15",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:37:17",
+        "pace": "04:14",
+        "adjusted-pace": "04:14",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:38:53",
+        "pace": "04:25",
+        "adjusted-pace": "04:25",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:37:25",
+        "pace": "04:15",
+        "adjusted-pace": "04:15",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:38:06",
+        "pace": "04:19",
+        "adjusted-pace": "04:19",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "16",
+    "order": 12,
+    "name": "南千住正能量俱乐部3队",
+    "result": "03:12:37",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:25:39",
+        "pace": "05:49",
+        "adjusted-pace": "06:07",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:37:56",
+        "pace": "04:18",
+        "adjusted-pace": "04:18",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:44:51",
+        "pace": "05:05",
+        "adjusted-pace": "05:05",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:45:29",
+        "pace": "05:10",
+        "adjusted-pace": "05:10",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:38:42",
+        "pace": "04:23",
+        "adjusted-pace": "04:23",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "17",
+    "order": 10,
+    "name": "南千住正能量俱乐部4队",
+    "result": "03:12:04",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:22:31",
+        "pace": "05:07",
+        "adjusted-pace": "05:22",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:39:13",
+        "pace": "04:27",
+        "adjusted-pace": "04:27",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:49:50",
+        "pace": "05:39",
+        "adjusted-pace": "05:39",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:41:06",
+        "pace": "04:40",
+        "adjusted-pace": "04:40",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:39:24",
+        "pace": "04:28",
+        "adjusted-pace": "04:28",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "18",
+    "order": 16,
+    "name": "南千住正能量俱乐部5队",
+    "result": "03:21:52",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:27:04",
+        "pace": "06:09",
+        "adjusted-pace": "06:27",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:49:47",
+        "pace": "05:39",
+        "adjusted-pace": "05:39",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:46:09",
+        "pace": "05:14",
+        "adjusted-pace": "05:14",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:38:31",
+        "pace": "04:22",
+        "adjusted-pace": "04:22",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:40:21",
+        "pace": "04:35",
+        "adjusted-pace": "04:35",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "19",
+    "order": 14,
+    "name": "菜鸟无影队",
+    "result": "03:15:39",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:25:15",
+        "pace": "05:44",
+        "adjusted-pace": "06:01",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:44:07",
+        "pace": "05:00",
+        "adjusted-pace": "05:00",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:44:47",
+        "pace": "05:05",
+        "adjusted-pace": "05:05",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:43:48",
+        "pace": "04:58",
+        "adjusted-pace": "04:58",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:37:42",
+        "pace": "04:17",
+        "adjusted-pace": "04:17",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "21",
+    "order": 8,
+    "name": "表姐联盟",
+    "result": "03:07:32",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:23:03",
+        "pace": "05:14",
+        "adjusted-pace": "05:30",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:51:07",
+        "pace": "05:48",
+        "adjusted-pace": "05:48",
+        "gender": "F"
+      },
+      {
+        "no": 3,
+        "duration": "00:47:16",
+        "pace": "05:22",
+        "adjusted-pace": "05:22",
+        "gender": "F"
+      },
+      {
+        "no": 4,
+        "duration": "00:43:55",
+        "pace": "04:59",
+        "adjusted-pace": "04:59",
+        "gender": "F"
+      },
+      {
+        "no": 5,
+        "duration": "00:22:11",
+        "pace": "05:02",
+        "adjusted-pace": "05:02",
+        "gender": "F",
+        "moveup": ""
+      }
+    ]
+  },
+  {
+    "no": "22",
+    "order": 13,
+    "name": "ChapterOne",
+    "result": "03:13:53",
+    "members": [
+      {
+        "no": 1,
+        "duration": "00:23:45",
+        "pace": "05:23",
+        "adjusted-pace": "05:40",
+        "gender": "F"
+      },
+      {
+        "no": 2,
+        "duration": "00:42:54",
+        "pace": "04:52",
+        "adjusted-pace": "04:52",
+        "gender": "M"
+      },
+      {
+        "no": 3,
+        "duration": "00:39:29",
+        "pace": "04:29",
+        "adjusted-pace": "04:29",
+        "gender": "M"
+      },
+      {
+        "no": 4,
+        "duration": "00:46:43",
+        "pace": "05:18",
+        "adjusted-pace": "05:18",
+        "gender": "M"
+      },
+      {
+        "no": 5,
+        "duration": "00:41:02",
+        "pace": "04:39",
+        "adjusted-pace": "04:39",
+        "gender": "M",
+        "moveup": ""
+      }
+    ]
+  },
+{
+  "no": "-KIDS",
+  "order": -9,
+  "name": "Team Dragon",
+  "result": "03:26:00",
+  "kids": 1,
+  "members": [
+    {
+      "no": 1,
+      "duration": "00:20:00",
+      "pace": "04:33",
+      "adjusted-pace": "04:46",
+      "gender": "K"
+    },
+    {
+      "no": 2,
+      "duration": "00:45:00",
+      "pace": "05:07",
+      "adjusted-pace": "05:07",
+      "gender": "K"
+    },
+    {
+      "no": 3,
+      "duration": "00:45:00",
+      "pace": "05:07",
+      "adjusted-pace": "05:07",
+      "gender": "K"
+    },
+    {
+      "no": 4,
+      "duration": "00:50:00",
+      "pace": "05:41",
+      "adjusted-pace": "05:41",
+      "gender": "K"
+    },
+    {
+      "no": 5,
+      "duration": "00:46:00",
+      "pace": "05:14",
+      "adjusted-pace": "05:14",
+      "gender": "K"
+    }
+  ]
+}  
+]
