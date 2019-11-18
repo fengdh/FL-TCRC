@@ -162,7 +162,7 @@ function receiveData(records) {
            .attr('x', (d, i) => 5 + i * 5)
            .attr('y', 4)
            .attr('height', 7)
-           .attr('width',  4)
+           .attr('width',  (d,i) => i > 0 : 2 : 4)
            .attr('fill', d => GENDER_COLOR[d.gender || '']);
 
     bar.append('text')
