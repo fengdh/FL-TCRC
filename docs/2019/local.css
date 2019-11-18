@@ -10,3 +10,7 @@
   color: #EEE;
   border-left: 15px solid #C0A;
 }
+
+#svg-teams .member:nth-child(n+7){
+  display: none;
+}
