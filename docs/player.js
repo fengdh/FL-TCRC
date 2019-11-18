@@ -328,8 +328,9 @@ function run(arr, bar, upto, scale) {
     
     svgTeams.selectAll('.rank').on('click', pinMe);
   
-    bar.append('rect')
-         .classed('f', d => d.members[upto].gender === 'F')
+    var rect = bar.append('rect');
+    rect.append('title').text(d => d.duration);
+    rect.classed('f', d => d.members[upto].gender === 'F')
          .attr('x', d => 36 + upto * 2 + (d._total[upto - 1 ] || 0) * scale)
          .attr('y', d => 4)
          .attr('height', 7)
@@ -339,8 +340,8 @@ function run(arr, bar, upto, scale) {
          .delay(func.gap)
          .duration(func.step)
          .ease(d3.easeLinear)
-         .attr("width", d => (d._step[upto] || 0) * scale)
-          .append('title').text(d => d.duration);
+         .attr("width", d => (d._step[upto] || 0) * scale);
+          
   
     bar.select('.result')
          .attr('fill', '#38F')
