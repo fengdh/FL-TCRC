@@ -37,7 +37,7 @@ var MAX = to_seconds('4:30:00');
 var WAIT = 500;
 
 // count of members for each team
-var COUNT_OF_MEMBERS = 5;
+var COUNT_OF_MEMBERS = 9; // 9 laps for 5 members (F1 * 1+ M4 * 2)
 
 // convert elapsed time in second to "HH:MM:SS"
 function to_time(seconds) {
