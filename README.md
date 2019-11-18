@@ -1,6 +1,6 @@
-## An unoffical infographic project for 
-# Friendship League of Tokyo Chinese Running Clubs 
-# 東京華人跑团联谊赛
+## Offical infographic project for 
+# Tokyo Running Clubs League 
+# 東京跑团联谊赛
 ##
 
 Please view on: https://fengdh.github.io/FL-TCRC/
