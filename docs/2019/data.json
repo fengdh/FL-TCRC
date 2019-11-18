@@ -1719,56 +1719,56 @@
    {
     "no": 2,
     "duration": "0:28:00",
-    "gender": "M",
+    "gender": "F",
     "pace": "05:43",
     "adjusted-pace": "06:00"
    },
    {
     "no": 2,
     "duration": "0:28:30",
-    "gender": "M",
+    "gender": "F",
     "pace": "05:49",
     "adjusted-pace": "06:06"
    },
    {
     "no": 3,
     "duration": "0:29:33",
-    "gender": "M",
+    "gender": "F",
     "pace": "06:02",
     "adjusted-pace": "06:20"
    },
    {
     "no": 3,
     "duration": "0:24:13",
-    "gender": "M",
+    "gender": "F",
     "pace": "04:57",
     "adjusted-pace": "05:11"
    },
    {
     "no": 4,
     "duration": "0:24:46",
-    "gender": "M",
+    "gender": "F",
     "pace": "05:03",
     "adjusted-pace": "05:18"
    },
    {
     "no": 4,
     "duration": "0:25:11",
-    "gender": "M",
+    "gender": "F",
     "pace": "05:08",
     "adjusted-pace": "05:24"
    },
    {
     "no": 5,
     "duration": "0:25:13",
-    "gender": "M",
+    "gender": "F",
     "pace": "05:09",
     "adjusted-pace": "05:24"
    },
    {
     "no": 5,
     "duration": "",
-    "gender": "M",
+    "gender": "-",
     "pace": "00",
     "adjusted-pace": "00"
    }
