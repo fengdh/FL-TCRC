@@ -339,7 +339,8 @@ function run(arr, bar, upto, scale) {
          .delay(func.gap)
          .duration(func.step)
          .ease(d3.easeLinear)
-         .attr("width", d => (d._step[upto] || 0) * scale);
+         .attr("width", d => (d._step[upto] || 0) * scale)
+          .append('title').text(d => d.duration);
   
     bar.select('.result')
          .attr('fill', '#38F')
