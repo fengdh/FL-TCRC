@@ -159,10 +159,10 @@ function receiveData(records) {
            .enter()
            .append('rect')
            .classed('member', true)
-           .attr('x', (d, i) => 5 + i * 5 - (i % 2) * 5)
+           .attr('x', (d, i) => 5 + (Math.floor(i / 2)) * 5)
            .attr('y', 4)
            .attr('height', 7)
-           .attr('width',  (d,i) => i > 0 ? 2 : 4)
+           .attr('width', 4)
            .attr('fill', d => GENDER_COLOR[d.gender || '']);
 
     bar.append('text')
